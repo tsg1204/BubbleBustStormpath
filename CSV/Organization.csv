@@ -1,0 +1,93 @@
+title,handle,person_office,branch
+Library of Congress,librarycongress,Office,Agency
+National Aeronautics and Space Administration ,NASA,Office,Agency
+Smithsonian Insitution,smithsonian,Office,Agency
+National Park Service,NatlParkService,Office,Agency
+Army Wonded Warrior Program,wwp,Office,Agency
+Federal Trade Commission,FTC,Office,Agency
+National Endowment for the Arts,NEAarts,Office,Agency
+National Science Foundation,NSF,Office,Agency
+Federal Reserve,federalreserve,Office,Agency
+Small Business Administration,SBAgov,Office,Agency
+United States Postal Service,USPS,Office,Agency
+Social Security Administration,SocialSecurity,Office,Agency
+Peace Corps,PeaceCorps,Office,Agency
+Central Intelligence Agency,CIA,Office,Agency
+Office of the Director of National Intelligence,ODNIgov,Office,Agency
+Commission on Civil Rights,USCCRgov,Office,Agency
+Equal Employment Opportunity Commission,EEOCNews,Office,Agency
+United States Holocaust Memorial Museum,HolocaustMuseum,Office,Agency
+National Security Agency,NSAGov,Office,Agency
+Federal Bureau of Investigation,FBI,Office,Agency
+Environmental Protection Agency,EPA,Office,Agency
+Pentagon,PentagonPresSec,Office,Agency
+United States Army,USArmy,Office,Agency
+United States Navy ,USNavy,Office,Agency
+United States Airforce,usairforce,Office,Agency
+United States Marine Corps,USMC,Office,Agency
+Drug Enforcement Administration,DEAHQ,Office,Agency
+United States Coast Guard,USCG,Office,Agency
+Harvard Medical School,harvardmed,Office,Research
+Stanford University,Stanford,Office,Research
+European Organization for Nuclear Research,CERN,Office,Research
+Massachusetts Institute of Technology,MIT,Office,Research
+Los Alamos National Lab,LosAlamosNatLab,Office,Research
+Defense Advanced Research Projects Agencys,DARPA,Office,Research
+Berkeley Lab,BerkelyLab,Office,Research
+Internet2,nternet2,Office,Research
+Research at Google,googleresearch,Office,Research
+Duke University,DukeU,Office,Research
+UCLA,UCLA,Office,Research
+Texas A&M,TAMU,Office,Research
+Johns Hopkins University,JohnsHopkins,Office,Research
+California Institute of Technology,Caltech,Office,Research
+Mayo Clinic,MayoClinic,Office,Research
+Planned Parenthood,PPFA,Office,Non-Profit
+American Cancer Society,AmericanCancer,Office,Non-Profit
+Boy Scouts of America,boyscouts,Office,Non-Profit
+American Diabetes Association,AmDiabetesAssn,Office,Non-Profit
+Habitat for Humanity,Habitat_org,Office,Non-Profit
+National Multiple Sclerosis Society,mssociety,Office,Non-Profit
+Cystic Fibrosis Foundation,CF_Foundation,Office,Non-Profit
+Girl Scouts of the USA,girlscouts,Office,Non-Profit
+Public Broadcasting Service,PBS,Office,Non-Profit
+National Public Radio,NPR,Office,Non-Profit
+Wildlife Conservation Society,TheWCS,Office,Non-Profit
+Ronald McDonald House Charities,RMHC,Office,Non-Profit
+National Geographic Society,NatGeo,Office,Non-Profit
+Ted Talks,TEDTalks,Office,Non-Profit
+Make-A-Wish,MakeAWish,Office,Non-Profit
+Disabled American Veterans,DAVHQ,Office,Non-Profit
+St. Jude Children's Research Hospital,StJude,Office,Non-Profit
+Teach for America,TeachForAmerica,Office,Non-Profit
+Green Peace,Greenpeace,Office,Non-Profit
+Doctors Without Borders,MSF,Office,Non-Profit
+ACLU,ACLU,Office,Non-Profit
+Human Rights Campaign,HRC,Office,Non-Profit
+Museum of Modern Art,MuseumModernArt,Office,Non-Profit
+United Nations Children's Fund,UNICEF,Office,Non-Profit
+Human Rights Watch,HRW,Office,ThinkTank
+Brooking Institution,BrookingsInst,Office,ThinkTank
+American Enterprise Institute,AEI,Office,ThinkTank
+Council on Foreign Relations,CFR_org,Office,ThinkTank
+RAND Corporation,RANDCorporation,Office,ThinkTank
+Cato Institute,CatoInstitute,Office,ThinkTank
+Heritage Foundation,Heritage,Office,ThinkTank
+Pew Research Center,pewresearch,Office,ThinkTank
+Center of American Progress,amprog,Office,ThinkTank
+Center on Budget and Policy Priorities,CenterOnBudget,Office,ThinkTank
+Peterson Institute for International Economics,PIIE,Office,ThinkTank
+Urban Institute,urbaninstitute,Office,ThinkTank
+Woodrow Wilson International Center for Scholars,TheWilsonCenter,Office,ThinkTank
+National Bureau of Economic Research,nberpubs,Office,ThinkTank
+Center for Strategic International Studies,CSIS,Office,ThinkTank
+Hoover Institution,HooverInst,Office,ThinkTank
+Bipartisan Policy Center,BPC_Bipartisan,Office,ThinkTank
+Heartland Institute,HeartlandInst,Office,ThinkTank
+Freedom House,FreedomHouseDC,Office,ThinkTank
+Open Society,OpenSociety,Office,ThinkTank
+Earth Institute,earthinstitute,Office,ThinkTank
+Belfer Center for Science and International Affairs,BelferCenter,Office,ThinkTank
+Carnegie Endowment for International Peace,CarnegieEndow,Office,ThinkTank
+Manhattan Institute,ManhattanInst,Office,ThinkTank
+Aspen Institute,AspenInstitute,Office,ThinkTank

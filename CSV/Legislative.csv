@@ -1,0 +1,101 @@
+title,state,position,person_office,branch,handle,party
+Jeff Sessions,Alabama,Senator,Person,Legislative,SenatorSessions,Republican
+Richard Shelby,Alabama,Senator,Person,Legislative,SenShelby,Republican
+Daniel S. Sullivan,Alaska,Senator,Person,Legislative,SenDanSullivan,Republican
+Lisa Murkowski,Alaska,Senator,Person,Legislative,lisamurkowski	,Republican
+Jeff Flake,Arizona,Senator,Person,Legislative,JeffFlake,Republican
+John McCain,Arizona,Senator,Person,Legislative,SenJohnMcCain	,Republican
+John Boozman,Arkansas,Senator,Person,Legislative,JohnBoozman,Republican
+Tom Cotton,Arkansas,Senator,Person,Legislative,RepTomCotton,Republican
+Kamala Harris,California,Senator,Person,Legislative,KamalaHarris,Democrat
+Dianne Feinstein,California,Senator,Person,Legislative,SenFeinstein	,Democrat
+Cory Gardner,Colorado,Senator,Person,Legislative,repcorygardner,Republican
+Michael Bennet,Colorado,Senator,Person,Legislative,SenBennetCO,Democrat
+Christopher S. Murphy,Connecticut,Senator,Person,Legislative,ChrisMurphyCT,Democrat
+Richard Blumenthal,Connecticut,Senator,Person,Legislative,SenBlumenthal,Democrat
+Chris Coons,Delaware,Senator,Person,Legislative,ChrisCoons,Democrat
+Tom Carper,Delaware,Senator,Person,Legislative,SenatorCarper,Democrat
+Bill Nelson,Florida,Senator,Person,Legislative,SenBillNelson,Democrat
+Marco Rubio,Florida,Senator,Person,Legislative,marcorubio,Republican
+David Perdue,Georgia,Senator,Person,Legislative,sendavidperdue,Republican
+Johnny Isakson,Georgia,Senator,Person,Legislative,SenatorIsakson,Republican
+Brian E. Schatz,Hawaii,Senator,Person,Legislative,SenBrianSchatz,Democrat
+Mazie K. Hirono,Hawaii,Senator,Person,Legislative,maziehirono,Democrat
+Jim Risch,Idaho,Senator,Person,Legislative,SenatorRisch,Republican
+Mike Crapo,Idaho,Senator,Person,Legislative,MikeCrapo,Republican
+Dick Durbin,Illinois,Senator,Person,Legislative,SenatorDurbin,Democrat
+Mark Kirk,Illinois,Senator,Person,Legislative,SenatorKirk,Republican
+Dan Coats,Indiana,Senator,Person,Legislative,SenDanCoats,Republican
+Joe Donnelly,Indiana,Senator,Person,Legislative,SenDonnelly,Democrat
+Chuck Grassley,Iowa,Senator,Person,Legislative,ChuckGrassley,Republican
+Joni Ernst,Iowa,Senator,Person,Legislative,SenJoniErnst,Republican
+Jerry Moran,Kansas,Senator,Person,Legislative,JerryMoran,Republican
+Pat Roberts,Kansas,Senator,Person,Legislative,SenPatRoberts,Republican
+Mitch McConnell,Kentucky,Senator,Person,Legislative,McConnellPress,Republican
+Rand Paul,Kentucky,Senator,Person,Legislative,RandPaul,Republican
+Bill Cassidy,Louisiana,Senator,Person,Legislative,BillCassidy,Republican
+David Vitter,Louisiana,Senator,Person,Legislative,DavidVitter,Republican
+Angus King,Maine,Senator,Person,Legislative,SenAngusKing,Independent
+Susan Collins,Maine,Senator,Person,Legislative,SenatorCollins,Republican
+Barbara Mikulski,Maryland,Senator,Person,Legislative,SenatorBarb,Democrat
+Ben Cardin,Maryland,Senator,Person,Legislative,SenatorCardin,Democrat
+Ed Markey,Massachusetts,Senator,Person,Legislative,SenMarkey,Democrat
+Elizabeth Warren,Massachusetts,Senator,Person,Legislative,SenWarren,Democrat
+Debbie Stabenow,Michigan,Senator,Person,Legislative,SenStabenow,Democrat
+Gary Peters,Michigan,Senator,Person,Legislative,SenGaryPeters,Democrat
+Al Franken,Minnesota,Senator,Person,Legislative,SenFranken,Democrat
+Amy Klobuchar,Minnesota,Senator,Person,Legislative,amyklobuchar,Democrat
+Roger Wicker,Mississippi,Senator,Person,Legislative,SenatorWicker,Republican
+Thad Cochran,Mississippi,Senator,Person,Legislative,SenThadCochran,Republican
+Claire McCaskill,Missouri,Senator,Person,Legislative,McCaskillOffice,Democrat
+Roy Blunt,Missouri,Senator,Person,Legislative,RoyBlunt,Republican
+Jon Tester,Montana,Senator,Person,Legislative,SenatorTester,Democrat
+Steve Daines,Montana,Senator,Person,Legislative,SteveDaines,Republican
+Ben Sasse,Nebraska,Senator,Person,Legislative,SenSasse,Republican
+Deb Fischer,Nebraska,Senator,Person,Legislative,SenatorFischer,Republican
+Dean Heller,Nevada,Senator,Person,Legislative,SenDeanHeller,Republican
+Harry Reid,Nevada,Senator,Person,Legislative,SenatorReid,Democrat
+Jeanne Shaheen,New Hampshire,Senator,Person,Legislative,SenatorShaheen,Democrat
+Kelly Ayotte,New Hampshire,Senator,Person,Legislative,KellyAyotte,Republican
+Bob Menendez,New Jersey,Senator,Person,Legislative,SenatorMenendez,Democrat
+Cory Booker,New Jersey,Senator,Person,Legislative,CoryBooker,Democrat
+Martin Heinrich,New Mexico,Senator,Person,Legislative,MartinHeinrich,Democrat
+Tom Udall,New Mexico,Senator,Person,Legislative,SenatorTomUdall,Democrat
+Chuck Schumer,New York,Senator,Person,Legislative,SenSchumer,Democrat
+Kirsten Gillibrand,New York,Senator,Person,Legislative,SenGillibrand,Democrat
+Richard Burr,North Carolina,Senator,Person,Legislative,SenatorBurr,Republican
+Thom Tillis,North Carolina,Senator,Person,Legislative,SenThomTillis,Republican
+Heidi Heitkamp,North Dakota,Senator,Person,Legislative,SenatorHeitkamp,Democrat
+John Hoeven,North Dakota,Senator,Person,Legislative,SenJohnHoeven,Republican
+Rob Portman,Ohio,Senator,Person,Legislative,senrobportman,Republican
+Sherrod Brown,Ohio,Senator,Person,Legislative,SenSherrodBrown,Democrat
+James Lankford,Oklahoma,Senator,Person,Legislative,SenatorLankford,Republican
+Jim Inhofe,Oklahoma,Senator,Person,Legislative,InhofePress,Republican
+Jeff Merkley,Oregon,Senator,Person,Legislative,SenJeffMerkley,Democrat
+Ron Wyden,Oregon,Senator,Person,Legislative,RonWyden,Democrat
+"Bob Casey, Jr.",Pennsylvania,Senator,Person,Legislative,SenBobCasey,Democrat
+Pat Toomey,Pennsylvania,Senator,Person,Legislative,SenToomey,Republican
+Jack Reed,Rhode Island,Senator,Person,Legislative,SenJackReed,Democrat
+Sheldon Whitehouse,Rhode Island,Senator,Person,Legislative,SenWhitehouse,Democrat
+Lindsey Graham,South Carolina,Senator,Person,Legislative,LindseyGrahamSC,Republican
+Tim Scott,South Carolina,Senator,Person,Legislative,SenatorTimScott,Republican
+John Thune,South Dakota,Senator,Person,Legislative,SenJohnThune,Republican
+Mike Rounds,South Dakota,Senator,Person,Legislative,SenatorRounds,Republican
+Bob Corker,Tennessee,Senator,Person,Legislative,SenBobCorker,Republican
+Lamar Alexander,Tennessee,Senator,Person,Legislative,SenAlexander,Republican
+John Cornyn,Texas,Senator,Person,Legislative,JohnCornyn,Republican
+Ted Cruz,Texas,Senator,Person,Legislative,SenTedCruz,Republican
+Mike Lee,Utah,Senator,Person,Legislative,SenMikeLee,Republican
+Orrin Hatch,Utah,Senator,Person,Legislative,SenOrrinHatch,Republican
+Bernie Sanders,Vermont,Senator,Person,Legislative,SenSanders,Independent
+Patrick Leahy,Vermont,Senator,Person,Legislative,SenatorLeahy,Democrat
+Mark Warner,Virginia,Senator,Person,Legislative,MarkWarner,Democrat
+Tim Kaine,Virginia,Senator,Person,Legislative,timkaine,Democrat
+Maria Cantwell,Washington,Senator,Person,Legislative,SenatorCantwell,Democrat
+Patty Murray,Washington,Senator,Person,Legislative,PattyMurray,Democrat
+Joe Manchin III,West Virginia,Senator,Person,Legislative,Sen_JoeManchin,Democrat
+Shelley Moore Capito,West Virginia,Senator,Person,Legislative,SenCapito,Republican
+Ron Johnson,Wisconsin,Senator,Person,Legislative,SenRonJohnson,Republican
+Tammy Baldwin,Wisconsin,Senator,Person,Legislative,SenatorBaldwin,Democrat
+John Barrasso,Wyoming,Senator,Person,Legislative,SenJohnBarrasso,Republican
+Mike Enzi,Wyoming,Senator,Person,Legislative,SenatorEnzi,Republican

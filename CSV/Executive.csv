@@ -1,0 +1,56 @@
+title,handle,position,person_office,branch,party
+Obama,BarackObama,President,Person,Executive,Democrat
+M. Obama,MichelleObama,First Lady,Person,Executive,n/a
+Dump,realDonaldTrump,President-Elect,Person,Executive,Republican
+M. Trump,MELANIATRUMP,First Lady - Elect,Person,Executive,n/a
+Joe Biden,JoeBiden,Vice President,Person,Executive,Democrat
+John Kerry,JohnKerry,Secretary of State,Person,Executive,Democrat
+Jack Lew,n/a,Secretary of Treasury,Person,Executive,Democrat
+Ashton Carter,n/a,Secretary of Defence,Person,Executive,Democrat
+Loretta Lynch,LorettaLynch,Attorney General,Person,Executive,Democrat
+Sally Jewell,SecretaryJewell,Secretary of the Interior,Person,Executive,Democrat
+Thomas Vilsack,n/a,Secretary of Agriculture,Person,Executive,Democrat
+Penny Pritzer,PennyPritzker,Secretary of Commerce,Person,Executive,Democrat
+Thomas Perez,LaborSec,Secretary of Labor,Person,Executive,Democrat
+Sylvia Mathews Burwell,SecBurwell,Secretary of Health and Human Services,Person,Executive,Democrat
+Julian Castro,SecretaryCastro,Secretary of Housing and Development,Person,Executive,Democrat
+Anthony Foxx,SecretaryFoxx,Secretary of Transportation,Person,Executive,Democrat
+Ernest Moniz,ErnestMoniz,Secretary of Energy,Person,Executive,Democrat
+John King,JohnKingatED,Secretary of Education,Person,Executive,Democrat
+Robert McDonald,n/a,Secretary of Veterans Affairs,Person,Executive,Democrat
+Jeh Johnson,n/a,Secretary of Homeland Security,Person,Executive,Democrat
+Denis McDonough,Denis44,White House Chief of Staff,Person,Executive,Democrat
+Gina McCarthy,GinaEPA,Administrator of the Environmental Protection Agency,Person,Executive,Democrat
+Shaun Donovan,ShaunOMB,Director of the Office of Management and Budget,Person,Executive,Democrat
+Michael Froman,MikeFroman,Ambassador and United States Trade Representative,Person,Executive,Democrat
+Samantha Power,AmbassadorPower,Ambassador of the United States Mission to the United Nations,Person,Executive,Democrat
+Jason Furman,CEAChair,Chairman of the Council of Economic Advisors,Person,Executive,Democrat
+Sandy Black,CEASandy,Council of Economic Advisers Member ,Person,Executive,Democrat
+Jay Shambaugh,CEAJay,Council of Economic Advisers Member ,Person,Executive,Democrat
+Maria Contreras-Sweet,MContrerasSweet,Administrator of the Small Business Association,Person,Executive,Democrat
+Josh Earnest ,jearnest44,Press Secretary,Person,Executive,Democrat
+Official White House Account,WhiteHouse,White House,Office,Executive,n/a
+President,POTUS,President,Office,Executive,n/a
+First Lady,FLOTUS ,First Lady,Office,Executive,n/a
+Vice President,VP,Vice President,Office,Executive,n/a
+Department of State,StateDept,Department of State,Office,Executive,n/a
+Department of the Treasury,USTreasury,Department of the Treasury,Office,Executive,n/a
+Department of Defence,DeptofDefense,Department of Defence,Office,Executive,n/a
+Department of Justice,theJusticeDept,Department of Justice,Office,Executive,n/a
+Department of the Interior,Interior,Department of the Interior,Office,Executive,n/a
+Department of Agriculture,USDA,Department of Agriculture,Office,Executive,n/a
+Department of Commerce,CommerceGov,Department of Commerce,Office,Executive,n/a
+Department of Labor,USDOL,Department of Labor,Office,Executive,n/a
+Department of Health and Human Services,HHSGov,Department of Health and Human Services,Office,Executive,n/a
+Department of Housing and Development,HUDgov,Department of Housing and Development,Office,Executive,n/a
+Department of Transportation,USDOT,Department of Transportation,Office,Executive,n/a
+Department of Energy,ENERGY,Department of Energy,Office,Executive,n/a
+Department of Education,usedgov,Department of Education,Office,Executive,n/a
+Department of Veterans Affairs,DeptVetAffairs,Department of Veterans Affairs,Office,Executive,n/a
+Department of Homeland Security,DHSgov,Department of Homeland Security,Office,Executive,n/a
+Office of Management and Budget,OMBPress,Office of Management and Budget,Office,Executive,n/a
+Office of United States Trade Representative,USTradeRep,Office of United States Trade Representative,Office,Executive,n/a
+United States Mission to the United Nations,USUN,United States Mission to the United Nations,Office,Executive,n/a
+Press Secretary,PressSec,Press Secretary,Office,Executive,n/a
+Office of Cabinet Affairs,Cabinet,Office of Cabinet Affairs,Office,Executive,n/a
+US Supreme Court,@USSupremeCourt,Supreme Court,Office,Judicial,n/a
